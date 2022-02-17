@@ -5,19 +5,19 @@ set your credentials in **ormconfig.json**
 
 set your credentials in **.env**
 
-npm install
+**npm install**
 
-npm start, to run the project
+**npm start**, to run the project
 
-go to http://localhost:3000/inidatas to load the initial data
+go to http://localhost:3000/inidatas to **load the initial data**
 
-npm run test to run tests 
+**npm run test** to run tests 
 
 
 ====================================================
 
 
-[Endpoints]
+**[Endpoints]**
 
 (get)/clientes
 
