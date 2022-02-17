@@ -1,9 +1,9 @@
 # ShopsRUs discounts, invoices microservice
 [STEPS TO RUN THE PROJECT]
 
-set your credentials in ormconfig.json
+set your credentials in **ormconfig.json**
 
-set your credentials in .env
+set your credentials in **.env**
 
 npm install
 
